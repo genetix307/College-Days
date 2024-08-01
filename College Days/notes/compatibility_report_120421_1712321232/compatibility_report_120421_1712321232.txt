@@ -1,0 +1,519 @@
+Converting GML script: ${project_dir}\scripts\load_game\load_game.gml
+Converted string - line 2: 'savegame.ini' -> "savegame.ini"
+Converted string - line 5: 'save1' -> "save1"
+Converted string - line 5: 'player_name' -> "player_name"
+Converted string - line 6: 'save1' -> "save1"
+Converted string - line 6: 'player_look' -> "player_look"
+Converted string - line 7: 'save1' -> "save1"
+Converted string - line 7: 'dating' -> "dating"
+Converted string - line 8: 'save1' -> "save1"
+Converted string - line 8: 'followers' -> "followers"
+Converted string - line 9: 'save1' -> "save1"
+Converted string - line 9: 'fitness' -> "fitness"
+Converted string - line 10: 'save1' -> "save1"
+Converted string - line 10: 'brains' -> "brains"
+Converted string - line 11: 'save1' -> "save1"
+Converted string - line 11: 'popularity' -> "popularity"
+Converted string - line 12: 'save1' -> "save1"
+Converted string - line 12: 'gpa' -> "gpa"
+Converted string - line 14: 'save1' -> "save1"
+Converted string - line 14: 'current_chapter' -> "current_chapter"
+Converted string - line 16: 'save1' -> "save1"
+Converted string - line 16: 'sophia_friend' -> "sophia_friend"
+Converted string - line 17: 'save1' -> "save1"
+Converted string - line 17: 'sophia_love' -> "sophia_love"
+Converted string - line 18: 'save1' -> "save1"
+Converted string - line 18: 'chris_friend' -> "chris_friend"
+Converted string - line 19: 'save1' -> "save1"
+Converted string - line 19: 'chris_love' -> "chris_love"
+Converted string - line 20: 'save1' -> "save1"
+Converted string - line 20: 'chandra_friend' -> "chandra_friend"
+Converted string - line 21: 'save1' -> "save1"
+Converted string - line 21: 'chandra_love' -> "chandra_love"
+Converted string - line 22: 'save1' -> "save1"
+Converted string - line 22: 'isaac_friend' -> "isaac_friend"
+Converted string - line 23: 'save1' -> "save1"
+Converted string - line 23: 'isaac_love' -> "isaac_love"
+Converted string - line 24: 'save1' -> "save1"
+Converted string - line 24: 'alyssa_friend' -> "alyssa_friend"
+Converted string - line 25: 'save1' -> "save1"
+Converted string - line 25: 'alyssa_love' -> "alyssa_love"
+Converted string - line 26: 'save1' -> "save1"
+Converted string - line 26: 'anna_friend' -> "anna_friend"
+Converted string - line 27: 'save1' -> "save1"
+Converted string - line 27: 'anna_love' -> "anna_love"
+Converted string - line 28: 'save1' -> "save1"
+Converted string - line 28: 'lily_friend' -> "lily_friend"
+Converted string - line 29: 'save1' -> "save1"
+Converted string - line 29: 'lily_love' -> "lily_love"
+Converted string - line 30: 'save1' -> "save1"
+Converted string - line 30: 'jacob_friend' -> "jacob_friend"
+Converted string - line 31: 'save1' -> "save1"
+Converted string - line 31: 'jacob_love' -> "jacob_love"
+
+Converting GML script: ${project_dir}\scripts\save_game\save_game.gml
+Converted string - line 2: 'savegame.ini' -> "savegame.ini"
+Converted string - line 5: 'save1' -> "save1"
+Converted string - line 5: 'player_name' -> "player_name"
+Converted string - line 6: 'save1' -> "save1"
+Converted string - line 6: 'player_look' -> "player_look"
+Converted string - line 7: 'save1' -> "save1"
+Converted string - line 7: 'dating' -> "dating"
+Converted string - line 8: 'save1' -> "save1"
+Converted string - line 8: 'followers' -> "followers"
+Converted string - line 9: 'save1' -> "save1"
+Converted string - line 9: 'fitness' -> "fitness"
+Converted string - line 10: 'save1' -> "save1"
+Converted string - line 10: 'brains' -> "brains"
+Converted string - line 11: 'save1' -> "save1"
+Converted string - line 11: 'popularity' -> "popularity"
+Converted string - line 12: 'save1' -> "save1"
+Converted string - line 12: 'gpa' -> "gpa"
+Converted string - line 14: 'save1' -> "save1"
+Converted string - line 14: 'current_chapter' -> "current_chapter"
+Converted string - line 16: 'save1' -> "save1"
+Converted string - line 16: 'sophia_friend' -> "sophia_friend"
+Converted string - line 17: 'save1' -> "save1"
+Converted string - line 17: 'sophia_love' -> "sophia_love"
+Converted string - line 18: 'save1' -> "save1"
+Converted string - line 18: 'chris_friend' -> "chris_friend"
+Converted string - line 19: 'save1' -> "save1"
+Converted string - line 19: 'chris_love' -> "chris_love"
+Converted string - line 20: 'save1' -> "save1"
+Converted string - line 20: 'chandra_friend' -> "chandra_friend"
+Converted string - line 21: 'save1' -> "save1"
+Converted string - line 21: 'chandra_love' -> "chandra_love"
+Converted string - line 22: 'save1' -> "save1"
+Converted string - line 22: 'isaac_friend' -> "isaac_friend"
+Converted string - line 23: 'save1' -> "save1"
+Converted string - line 23: 'isaac_love' -> "isaac_love"
+Converted string - line 24: 'save1' -> "save1"
+Converted string - line 24: 'alyssa_friend' -> "alyssa_friend"
+Converted string - line 25: 'save1' -> "save1"
+Converted string - line 25: 'alyssa_love' -> "alyssa_love"
+Converted string - line 26: 'save1' -> "save1"
+Converted string - line 26: 'anna_friend' -> "anna_friend"
+Converted string - line 27: 'save1' -> "save1"
+Converted string - line 27: 'anna_love' -> "anna_love"
+Converted string - line 28: 'save1' -> "save1"
+Converted string - line 28: 'lily_friend' -> "lily_friend"
+Converted string - line 29: 'save1' -> "save1"
+Converted string - line 29: 'lily_love' -> "lily_love"
+Converted string - line 30: 'save1' -> "save1"
+Converted string - line 30: 'jacob_friend' -> "jacob_friend"
+Converted string - line 31: 'save1' -> "save1"
+Converted string - line 31: 'jacob_love' -> "jacob_love"
+
+Font font_dialogue has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_dialogue\font_dialogue.gms1.png
+!!! Font font_chapter font family Brush Script MT is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_chapter\font_chapter.gms1.png
+!!! Font font_chapter_title font family Brush Script MT is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_chapter_title\font_chapter_title.gms1.png
+Converting GML script: ${project_dir}\objects\chapter_01\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_bedroom_player_home -> __background_set( e__BG.Index, 0, bg_bedroom_player_home )
+Converted builtin - line 15: background_index[0] = bg_road_lakeside -> __background_set( e__BG.Index, 0, bg_road_lakeside )
+Converted builtin - line 24: background_index[0] = bg_hartridge_cityscape_day -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_day )
+Converted builtin - line 34: background_index[0] = bg_dorms_day -> __background_set( e__BG.Index, 0, bg_dorms_day )
+Converted builtin - line 39: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_02\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 25: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 36: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 43: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_03\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 9: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 42: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_04\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 34: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 55: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_05\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 4: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 6: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 7: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 20: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 43: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_06\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 4: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 8: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 14: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 16: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 34: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 43: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_07\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 9: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 10: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 23: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 24: background_index[0] = bg_theater -> __background_set( e__BG.Index, 0, bg_theater )
+Converted builtin - line 38: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 39: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 42: background_index[0] = bg_park_night -> __background_set( e__BG.Index, 0, bg_park_night )
+Converted builtin - line 52: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 59: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_08\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 3: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 4: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 5: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 23: background_index[0] = bg_bedroom_player_home -> __background_set( e__BG.Index, 0, bg_bedroom_player_home )
+Converted builtin - line 36: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 40: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_09\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorms_day -> __background_set( e__BG.Index, 0, bg_dorms_day )
+Converted builtin - line 3: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 6: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 21: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 54: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_10\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 3: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 42: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_11\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 4: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 18: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 24: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 46: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_12\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 16: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 39: background_index[0] = bg_stadium -> __background_set( e__BG.Index, 0, bg_stadium )
+Converted builtin - line 58: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 59: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 70: background_index[0] = bg_dorms_day -> __background_set( e__BG.Index, 0, bg_dorms_day )
+Converted builtin - line 73: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_13\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 5: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 16: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 26: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 34: background_index[0] = bg_park_night -> __background_set( e__BG.Index, 0, bg_park_night )
+Converted builtin - line 52: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 72: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 77: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_14\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 18: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 67: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_15\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 7: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 9: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 21: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 24: background_index[0] = bg_mall -> __background_set( e__BG.Index, 0, bg_mall )
+Converted builtin - line 77: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 79: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 84: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_16\Alarm_0.gml
+Converted builtin - line 1: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 2: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 3: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 4: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+
+Converting GML script: ${project_dir}\objects\chapter_16\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 6: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 19: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 20: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 21: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 23: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 35: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 36: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 44: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 50: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_17\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 6: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 12: background_index[0] = bg_stadium -> __background_set( e__BG.Index, 0, bg_stadium )
+Converted builtin - line 45: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 57: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_18\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 3: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 5: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 9: background_index[0] = bg_road_snowy -> __background_set( e__BG.Index, 0, bg_road_snowy )
+Converted builtin - line 44: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 69: background_index[0] = bg_road_snowy -> __background_set( e__BG.Index, 0, bg_road_snowy )
+Converted builtin - line 75: background_index[0] = bg_bedroom_player_home -> __background_set( e__BG.Index, 0, bg_bedroom_player_home )
+Converted builtin - line 81: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_19\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_bedroom_player_home -> __background_set( e__BG.Index, 0, bg_bedroom_player_home )
+Converted builtin - line 6: background_index[0] = bg_road_snowy -> __background_set( e__BG.Index, 0, bg_road_snowy )
+Converted builtin - line 9: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 11: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 30: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 47: background_index[0] = bg_party_packed -> __background_set( e__BG.Index, 0, bg_party_packed )
+Converted builtin - line 79: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_20\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 9: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 29: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 30: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 40: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 42: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 48: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_21\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 6: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 7: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 51: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 53: background_index[0] = bg_stadium -> __background_set( e__BG.Index, 0, bg_stadium )
+Converted builtin - line 98: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_22\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_stadium -> __background_set( e__BG.Index, 0, bg_stadium )
+Converted builtin - line 11: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 14: background_index[0] = bg_hospital -> __background_set( e__BG.Index, 0, bg_hospital )
+Converted builtin - line 69: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_23\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 8: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 40: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 67: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_24\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 27: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 46: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 101: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_25\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 15: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 23: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 39: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 85: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_26\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 7: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 36: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 40: background_index[0] = bg_theater -> __background_set( e__BG.Index, 0, bg_theater )
+Converted builtin - line 48: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 55: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 81: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 85: background_index[0] = bg_theater -> __background_set( e__BG.Index, 0, bg_theater )
+Converted builtin - line 93: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 100: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 121: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 123: background_index[0] = bg_theater -> __background_set( e__BG.Index, 0, bg_theater )
+Converted builtin - line 127: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 140: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 154: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 159: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_27\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 18: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 33: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 40: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 99: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 119: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 132: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_28\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 4: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 15: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 16: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 31: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 50: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 51: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 53: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 55: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 67: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_29\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 10: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 20: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 52: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 82: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 84: background_index[0] = bg_park_night -> __background_set( e__BG.Index, 0, bg_park_night )
+Converted builtin - line 89: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 101: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_30\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 10: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 26: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 32: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 40: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 55: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 57: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 59: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 61: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 90: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_31\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 9: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 42: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 57: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 66: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_32\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 45: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 62: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 76: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 95: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 102: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_33\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_hartridge_cityscape_day -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_day )
+Converted builtin - line 5: background_index[0] = bg_dorms_day -> __background_set( e__BG.Index, 0, bg_dorms_day )
+Converted builtin - line 7: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 12: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 24: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 34: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 35: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 87: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_34\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 5: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 35: background_index[0] = bg_party_packed -> __background_set( e__BG.Index, 0, bg_party_packed )
+Converted builtin - line 84: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 94: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 102: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_souldefender\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+
+Converting GML script: ${project_dir}\objects\chapter_35\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 5: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 28: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 36: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 51: background_index[0] = bg_bedroom_player_home -> __background_set( e__BG.Index, 0, bg_bedroom_player_home )
+Converted builtin - line 59: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 65: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_36\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 5: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 10: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 53: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 79: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_37\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 23: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 25: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 34: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 37: background_index[0] = bg_hartridge_cityscape_day -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_day )
+Converted builtin - line 42: background_index[0] = bg_hospital -> __background_set( e__BG.Index, 0, bg_hospital )
+Converted builtin - line 57: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 59: background_index[0] = bg_hospital -> __background_set( e__BG.Index, 0, bg_hospital )
+Converted builtin - line 69: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_38\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_livingroom -> __background_set( e__BG.Index, 0, bg_dorm_livingroom )
+Converted builtin - line 22: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 52: background_index[0] = bg_dorm_commons -> __background_set( e__BG.Index, 0, bg_dorm_commons )
+Converted builtin - line 65: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 85: background_index[0] = bg_mall -> __background_set( e__BG.Index, 0, bg_mall )
+Converted builtin - line 108: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_39\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_mall -> __background_set( e__BG.Index, 0, bg_mall )
+Converted builtin - line 12: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 21: background_index[0] = bg_parking_garage -> __background_set( e__BG.Index, 0, bg_parking_garage )
+Converted builtin - line 42: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 58: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 61: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 63: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 84: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 95: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_40\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 17: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 44: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_41\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_library -> __background_set( e__BG.Index, 0, bg_library )
+Converted builtin - line 31: background_index[0] = bg_moon -> __background_set( e__BG.Index, 0, bg_moon )
+Converted builtin - line 34: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 35: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 36: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 37: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 38: background_index[0] = bg_dorm_bedroom_player_night -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_night )
+Converted builtin - line 39: background_index[0] = bg_dorm_bedroom_player_day -> __background_set( e__BG.Index, 0, bg_dorm_bedroom_player_day )
+Converted builtin - line 41: background_index[0] = bg_hallway -> __background_set( e__BG.Index, 0, bg_hallway )
+Converted builtin - line 45: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 47: background_index[0] = bg_lecture_hall -> __background_set( e__BG.Index, 0, bg_lecture_hall )
+Converted builtin - line 67: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 87: background_index[0] = bg_dorms_day -> __background_set( e__BG.Index, 0, bg_dorms_day )
+Converted builtin - line 93: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_42\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 3: background_index[0] = bg_lab -> __background_set( e__BG.Index, 0, bg_lab )
+Converted builtin - line 5: background_index[0] = bg_classroom_outside -> __background_set( e__BG.Index, 0, bg_classroom_outside )
+Converted builtin - line 14: background_index[0] = bg_cafe -> __background_set( e__BG.Index, 0, bg_cafe )
+Converted builtin - line 46: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_43\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_theater -> __background_set( e__BG.Index, 0, bg_theater )
+Converted builtin - line 16: background_index[0] = bg_hartridge_cityscape_night -> __background_set( e__BG.Index, 0, bg_hartridge_cityscape_night )
+Converted builtin - line 22: background_index[0] = bg_bubble_club -> __background_set( e__BG.Index, 0, bg_bubble_club )
+Converted builtin - line 27: background_index[0] = bg_party_packed -> __background_set( e__BG.Index, 0, bg_party_packed )
+Converted builtin - line 71: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Converting GML script: ${project_dir}\objects\chapter_44\Mouse_53.gml
+Converted builtin - line 2: background_index[0] = bg_theater -> __background_set( e__BG.Index, 0, bg_theater )
+Converted builtin - line 6: background_index[0] = bg_endchapter -> __background_set( e__BG.Index, 0, bg_endchapter )
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sfx_thud' - setting to default audio group
+Missing audiogroup for sound: 'sfx_footstep' - setting to default audio group
+Missing audiogroup for sound: 'sfx_button' - setting to default audio group
+Missing audiogroup for sound: 'bgm_menu' - setting to default audio group
+Missing audiogroup for sound: 'bgm_possible' - setting to default audio group
+Missing audiogroup for sound: 'bgm_beautiful_mystery' - setting to default audio group
+Missing audiogroup for sound: 'bgm_calm_night' - setting to default audio group
+Missing audiogroup for sound: 'sfx_girl_laugh' - setting to default audio group
+Missing audiogroup for sound: 'bgm_party' - setting to default audio group
+Missing audiogroup for sound: 'bgm_haunting' - setting to default audio group
+Missing audiogroup for sound: 'sfx_sirens' - setting to default audio group
+Missing audiogroup for sound: 'bgm_drama' - setting to default audio group
+Missing audiogroup for sound: 'bgm_rapbeat' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

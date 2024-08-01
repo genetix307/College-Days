@@ -1,0 +1,2 @@
+room = myroom_mainmenu
+
